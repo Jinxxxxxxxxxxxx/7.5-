@@ -1,0 +1,52 @@
+li{
+	border-style: solid;
+	border-color: rgb(242,243,245);
+	background-color: #fff;
+	padding: 20px 30px 20px 80px;
+	border-width: 0.5px;
+	position: relative;
+	line-height: 20px;
+}
+#ls{
+	height: 1648px;
+	width: 800px;
+	margin: auto;
+	padding-left: 0px;
+	list-style-type: none;
+}
+.score{
+	font-size: 1.1em;
+	font-weight: bold;
+	color: rgb(255,102,0);
+	width: 80px;
+	text-align: center;
+	line-height: 20px;
+	position: absolute;
+	top: 50%;
+	left: 0;
+	width: 80px;
+	margin-top: -10px;
+}
+.title{
+	font-size: 17px;
+	position: relative;
+	color: #34495e;
+}
+.titleLink{
+	text-decoration: none;
+	color:black;
+}
+.host{
+	color: rgb(130,130,130);
+	font-size: .85em;
+}
+.meta{
+	font-size: .85em;
+	color: rgb(130,130,130);
+}
+.byAuthor{
+	color: rgb(130,130,130);
+}
+.comments{
+	color: rgb(130,130,130);
+}
